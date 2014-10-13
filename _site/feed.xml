@@ -5,9 +5,34 @@
     <description>mad ramblings of all things relevant</description>
     <link>http://iamikon.github.io/</link>
     <atom:link href="http://iamikon.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Oct 2014 09:56:01 -0700</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2014 09:56:01 -0700</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2014 10:18:29 -0700</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 10:18:29 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>new macbook linux pain</title>
+        <description>&lt;p&gt;i haven’t seen this error listed anywhere before. having a mid 2013 13” macbook
+air has actually been a great success with linux. unfortunately for me and other
+and anyone else who wants linux on their macbook the osx yosemite beta updates
+some hardware firmware. as soon as this update (beta4) did what it did linux has
+been un-usable on the macbook. the kworker process is constantly pinged at about
+75% the entire time the system is up. obviously this makes for some very quick
+heating of the macbook and is not a great deal of fun. the only work around i
+have found is to disable acpi completely by adding &lt;code&gt;acpi=off&lt;/code&gt; as a kernel option
+in grub or refind. this fixed the kworker problem but introduces others, most
+notably is the system is far less responsive. i will continue to look into a
+solution for this but i believe if you are on the yosemite beta linux will not
+be very usable for quite awhile until the firmware patch is integrated into the
+kernel.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Oct 2014 03:10:25 -0700</pubDate>
+        <link>http://iamikon.github.io/macbook/2014/10/13/new-macbook-issue.html</link>
+        <guid isPermaLink="true">http://iamikon.github.io/macbook/2014/10/13/new-macbook-issue.html</guid>
+        
+        
+        <category>macbook</category>
+        
+      </item>
     
       <item>
         <title>welcome to jekyll - the new beginning</title>
