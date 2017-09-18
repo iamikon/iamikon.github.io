@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/iamikon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iamikon.github.io
+  * I am iamikon (https://keybase.io/iamikon) on keybase.
+  * I have a public key ASDrTaeM8Mv77JeyPumMxEs9fjPPchETus1aqZpUqc-dkgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120eb4da78cf0cbfbec97b23ee98cc44b3d7e33cf721113bacd5aa99a54a9cf9d920a",
+      "host": "keybase.io",
+      "kid": "0120eb4da78cf0cbfbec97b23ee98cc44b3d7e33cf721113bacd5aa99a54a9cf9d920a",
+      "uid": "12547f9c983a5424a2c016b640a15819",
+      "username": "iamikon"
+    },
+    "merkle_root": {
+      "ctime": 1505763640,
+      "hash": "09028f30a60f5edeb08ab6a2aba07b4a4a3daa8f87af4665d2f298d199c2adb7f0d365a0732a222f062120436466654273114349dfb0194f83662a1618591bea",
+      "hash_meta": "b3f03aedccc92e532ed5aad6c07ed61d5ec2aed97ef04d8b48a916482f5edeb6",
+      "seqno": 1398549
+    },
+    "service": {
+      "hostname": "iamikon.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.31"
+  },
+  "ctime": 1505763653,
+  "expire_in": 504576000,
+  "prev": "a7963d8f911e628fae00b99ffe6a37a43cd31e4d758267cd0f71dded96339277",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg602njPDL++yXsj7pjMRLPX4zz3IRE7rNWqmaVKnPnZIKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWI0ZGE3OGNmMGNiZmJlYzk3YjIzZWU5OGNjNDRiM2Q3ZTMzY2Y3MjExMTNiYWNkNWFhOTlhNTRhOWNmOWQ5MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWI0ZGE3OGNmMGNiZmJlYzk3YjIzZWU5OGNjNDRiM2Q3ZTMzY2Y3MjExMTNiYWNkNWFhOTlhNTRhOWNmOWQ5MjBhIiwidWlkIjoiMTI1NDdmOWM5ODNhNTQyNGEyYzAxNmI2NDBhMTU4MTkiLCJ1c2VybmFtZSI6ImlhbWlrb24ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDU3NjM2NDAsImhhc2giOiIwOTAyOGYzMGE2MGY1ZWRlYjA4YWI2YTJhYmEwN2I0YTRhM2RhYThmODdhZjQ2NjVkMmYyOThkMTk5YzJhZGI3ZjBkMzY1YTA3MzJhMjIyZjA2MjEyMDQzNjQ2NjY1NDI3MzExNDM0OWRmYjAxOTRmODM2NjJhMTYxODU5MWJlYSIsImhhc2hfbWV0YSI6ImIzZjAzYWVkY2NjOTJlNTMyZWQ1YWFkNmMwN2VkNjFkNWVjMmFlZDk3ZWYwNGQ4YjQ4YTkxNjQ4MmY1ZWRlYjYiLCJzZXFubyI6MTM5ODU0OX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJpYW1pa29uLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMxIn0sImN0aW1lIjoxNTA1NzYzNjUzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImE3OTYzZDhmOTExZTYyOGZhZTAwYjk5ZmZlNmEzN2E0M2NkMzFlNGQ3NTgyNjdjZDBmNzFkZGVkOTYzMzkyNzciLCJzZXFubyI6MzUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAJ7fpJnl3d4Fxe2bHlHn7K5Bu9YaS+nPtmkCVNxnk1Kc8/lh89fE+OQjjuhEHnpdO31JtDYKeZ7yU+zjWDSS/CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEj5SmPadWaV2zoWv9KrDXbU98vvl5Qtr5cyVrlKWOX5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iamikon
+
+==================================================================
